@@ -10,7 +10,7 @@ The `Multimodal AI Assistant` is a free AI chatbot crafted to facilitate local i
 
 Harnessing models via `Langchain` and `ChatOllama`, hosted locally with `Ollama`, offers numerous benefits in terms of customization. This setup allows for tailored model configurations that align with specific project requirements, enabling developers to fine-tune performance and functionalities.
 
-## Literalai storage and obstervability ☁️👁️
+## Literalai cloud storage and observability ☁️👁️
 
 `Literalai` provides seamless integration for data storage and observability, ensuring efficient management and monitoring of your AI model's performance. With built-in support for handling large datasets and real-time analytics, Literalai allows you to track, store, and visualize key metrics, offering deep insights into your models' behavior and outcomes. This robust storage system simplifies debugging and optimizes performance, making it a crucial tool for developing scalable AI applications.
 
