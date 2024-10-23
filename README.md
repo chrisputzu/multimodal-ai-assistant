@@ -2,7 +2,7 @@
 
 # Multimodal AI Assistant! 🚀🤖
 
-The `Multimodal AI Assistant` is a free AI chatbot crafted to facilitate local interactions with various LLMs, documents, and a range of advanced functionalities. It leverages the `Chainlit` Framework, along with Agents and Chains, to enhance the user experience.
+`Multimodal AI Assistant` is a free AI chatbot crafted to facilitate local interactions with various LLMs, documents, and a range of advanced functionalities. It leverages the `Chainlit` Framework, along with Agents and Chains, to enhance the user experience.
 
 ![Alt text](test_files_demo/chat_profiles_llm.png)
 
